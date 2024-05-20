@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parthi-007
+- 👋 Hi, I’m Parthiban
 - 👀  I’m interested in developing websites.
 - 🌱 I’m currently working as a MERN stack developer.
 - 💞️ I’m looking to work with enthusiasm with creative ideas
